@@ -104,7 +104,6 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Rome - Total War: Traits & Ancillaries";
-            this.HelpButtonClicked += new System.ComponentModel.CancelEventHandler(this.Form1_HelpButtonClicked);
             this.ResumeLayout(false);
             this.PerformLayout();
 
